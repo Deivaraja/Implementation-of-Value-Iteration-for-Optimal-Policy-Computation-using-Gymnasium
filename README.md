@@ -111,7 +111,7 @@ env_desc = [
     "FFHF",
     "HSHF",
     "HFFH",
-    "HFGH"
+    "HGFH"
 ]
 
 env = gym.make("FrozenLake-v1", desc=env_desc, is_slippery=True)
