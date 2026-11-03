@@ -29,7 +29,7 @@ The environment is a 4×4 customized FrozenLake consisting of safe frozen cells 
 F F H F
 H S H F
 H F F H
-H F G H
+H G F H
 
 ```
 ```
